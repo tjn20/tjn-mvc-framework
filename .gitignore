@@ -1,0 +1,5 @@
+vender/
+.idea
+.env
+composer.json
+composer.lock
