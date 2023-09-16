@@ -39,3 +39,6 @@ An open-source web development solution, this PHP MVC framework harnesses object
 2. create your database schema.
 3. Make a copy of the .env.example file and rename it as .env. Inside the .env file, update the database settings, including the schema name, to match your specific configuration.
 4. Execute the migration process by running php migration.php from the command line or by accessing the file path in the URL to configure your database settings.
+
+# How to use
+- After the installation process, you'll find an example illustrating how to configure the files. Feel free to customize the files as needed, but please ensure that you adhere to the instructions provided in the comments within the index.php file.
